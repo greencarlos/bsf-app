@@ -32,7 +32,7 @@ function HomepageComp() {
 			<h1>Best Sellers</h1>
 			<div className="row">
 				<div className="card">
-					<img src="../../public/weights.jpg" />
+					<img src="https://m.media-amazon.com/images/I/71ZTJmwgdML._AC_SL1500_.jpg" />
 					<p>
 						<b>IronVee™ - Power Cage and Weight Rack for home gym</b>
 						<StarRatingComp />
@@ -42,7 +42,7 @@ function HomepageComp() {
 					</p>
 				</div>
 				<div className="card">
-					<img src="../../public/weights.jpg" />
+					<img src="https://m.media-amazon.com/images/I/71ZTJmwgdML._AC_SL1500_.jpg" loading="lazy"/>
 					<p>
 						<b>IronVee™ - Power Cage and Weight Rack for home gym</b>
 					</p>
@@ -52,7 +52,7 @@ function HomepageComp() {
 					</p>
 				</div>
 				<div className="card">
-					<img src="../../public/weights.jpg" />
+					<img src="https://m.media-amazon.com/images/I/71ZTJmwgdML._AC_SL1500_.jpg" loading="lazy" />
 					<p>
 						<b>IronVee™ - Power Cage and Weight Rack for home gym</b>
 					</p>
@@ -64,7 +64,7 @@ function HomepageComp() {
 			</div>
 			<div className="row">
 				<div className="card">
-					<img src="../../public/weights.jpg" />
+					<img src="https://m.media-amazon.com/images/I/71ZTJmwgdML._AC_SL1500_.jpg" loading="lazy"/>
 					<p>
 						<b>IronVee™ - Power Cage and Weight Rack for home gym</b>
 					</p>
@@ -74,7 +74,7 @@ function HomepageComp() {
 					</p>
 				</div>
 				<div className="card">
-					<img src="../../public/weights.jpg" />
+					<img src="https://m.media-amazon.com/images/I/71ZTJmwgdML._AC_SL1500_.jpg" loading="lazy"/>
 					<p>
 						<b>IronVee™ - Power Cage and Weight Rack for home gym</b>
 					</p>
@@ -84,7 +84,7 @@ function HomepageComp() {
 					</p>
 				</div>
 				<div className="card">
-					<img src="../../public/weights.jpg" />
+					<img src="https://m.media-amazon.com/images/I/71ZTJmwgdML._AC_SL1500_.jpg" loading="lazy"/>
 					<p>
 						<b>IronVee™ - Power Cage and Weight Rack for home gym</b>
 					</p>

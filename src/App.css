@@ -1,0 +1,87 @@
+.center {
+	text-align: center;
+}
+
+.homepage {
+	height: 50%;
+	width: 100%;
+}
+
+.conatiner {
+	display: flex;
+}
+
+.email {
+	height: 5vh;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+}
+
+.logo {
+	height: 10%;
+	width: 10%;
+}
+
+.left {
+	left: 0;
+}
+
+.footer {
+	display: flex;
+	width: 100%;
+	justify-content: space-evenly;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+.column {
+	flex-direction: column;
+}
+
+.review {
+	border-radius: 50%;
+	width: 30%;
+}
+
+.row {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.shopping {
+	height: 40vh;
+	width: 20vw;
+}
+
+.card {
+}
+
+.card img {
+	height: 300px;
+	width: 300px;
+	border: 1px solid black;
+}
+
+.icon img {
+	height: 150px;
+	width: 150px;
+}
+
+.visa {
+	height: 150px;
+	width: 200px;
+}
+
+.green {
+	color: green;
+	font-size: 20px;
+}
+
+s {
+	color: red;
+	font-size: 18px;
+}

@@ -15,21 +15,21 @@ function HomepageComp() {
 
       <div className="row">
         <div className="icon">
-          <img src="../../public/truck.png" loading="lazy" />
+          <img src="https://img.icons8.com/m_outlined/1200/truck.jpg" loading="lazy" />
           <p>
             <b>FREE SHIPPING</b>
           </p>
           <p>Free Worlwide Shipping</p>
         </div>
         <div className="icon">
-          <img src="../../public/chat.png" loading="lazy" />
+          <img src="https://www.pngmart.com/files/16/Chat-Icon-Transparent-Background.png" loading="lazy" />
           <p>
             <b>24/7 SUPPORT</b>
           </p>
           <p>Contact us 24 hours a day</p>
         </div>
         <div className="icon">
-          <img src="../../public/box.png" loading="lazy" />
+          <img src="https://cdn3.iconfinder.com/data/icons/unboxing/64/02_Box_Unboxing_open_delivery_packaging-1024.png" loading="lazy" />
           <p>
             <b>30 DAY MONEY BACK GUARANTEE</b>
           </p>

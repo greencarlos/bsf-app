@@ -34,7 +34,7 @@ function Footer() {
       </nav>
       <hr />
       <div className="row">
-        <img className="visa" src="../../public/cards.png" />
+        <img className="visa" src="https://static.vecteezy.com/system/resources/previews/039/865/675/non_2x/mastercard-visa-apple-pay-google-pay-popular-payment-systems-finance-system-app-bank-card-illustration-free-vector.jpg" />
       </div>
       <div className="row">
         <p>© [Your store], {new Date().getFullYear()}</p>

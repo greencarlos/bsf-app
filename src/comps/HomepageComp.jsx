@@ -47,9 +47,9 @@ function HomepageComp() {
           <p>
             <b>IronVee™ - Power Cage and Weight Rack for home gym</b>
             <StarRatingComp />
-            <p className="green">
+            <div className="green">
               <s>$199.95</s> From $145.95 USD
-            </p>
+            </div>
           </p>
         </div>
         <div className="card">
@@ -61,9 +61,9 @@ function HomepageComp() {
             <b>IronVee™ - Power Cage and Weight Rack for home gym</b>
           </p>
           <StarRatingComp />
-          <p className="green">
+          <div className="green">
             <s>$199.95</s> From $145.95 USD
-          </p>
+          </div>
         </div>
         <div className="card">
           <img
@@ -74,9 +74,9 @@ function HomepageComp() {
             <b>IronVee™ - Power Cage and Weight Rack for home gym</b>
           </p>
           <StarRatingComp />
-          <p className="green">
+          <div className="green">
             <s>$199.95</s> From $145.95 USD
-          </p>
+          </div>
         </div>
       </div>
       <div className="row">
@@ -89,9 +89,9 @@ function HomepageComp() {
             <b>IronVee™ - Power Cage and Weight Rack for home gym</b>
           </p>
           <StarRatingComp />
-          <p className="green">
+          <div className="green">
             <s>$199.95</s> From $145.95 USD
-          </p>
+          </div>
         </div>
         <div className="card">
           <img
@@ -102,9 +102,9 @@ function HomepageComp() {
             <b>IronVee™ - Power Cage and Weight Rack for home gym</b>
           </p>
           <StarRatingComp />
-          <p className="green">
+          <div className="green">
             <s>$199.95</s> From $145.95 USD
-          </p>
+          </div>
         </div>
         <div className="card">
           <img
@@ -115,9 +115,9 @@ function HomepageComp() {
             <b>IronVee™ - Power Cage and Weight Rack for home gym</b>
           </p>
           <StarRatingComp />
-          <p className="green">
+          <div className="green">
             <s>$199.95</s> From $145.95 USD
-          </p>
+          </div>
         </div>
       </div>
 

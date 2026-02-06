@@ -9,7 +9,7 @@ function Navbar() {
       </p>
       <hr />
       <div className="header">
-        <img className="logo" src="../public/examplelogo.svg" />
+        <img className="logo" src="https://static.vecteezy.com/system/resources/previews/028/054/913/original/shopping-and-retail-logo-vector.jpg" />
         <NavLink to="/">Home</NavLink>
         <NavLink to="/shop">Shop</NavLink>
         <NavLink to="/faq">FAQ</NavLink>

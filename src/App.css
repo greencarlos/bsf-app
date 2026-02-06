@@ -1,3 +1,8 @@
+body {
+	display: flex;
+	justify-content: wrap;
+}
+
 .center {
 	text-align: center;
 }
@@ -43,8 +48,9 @@
 }
 
 .review {
-	border-radius: 50%;
-	width: 30%;
+	border-radius: 70%;
+	width: 50%;
+	height: 50%;
 }
 
 .row {
@@ -84,4 +90,30 @@
 s {
 	color: red;
 	font-size: 18px;
+}
+
+.wallpaper {
+	position: relative;
+	text-align: center;
+	color: black;
+}
+
+.wallpaper p {
+	position: absolute;
+	font-size: 100px;
+	top: 10%;
+	right: 40%;
+	left: 40%;
+}
+
+.wallpaper button {
+	color: white;
+	position: absolute;
+	background-color: green;
+	font-size: 25px;
+	border-radius: 15px;
+	width: 10%;
+	top: 55%;
+	bottom: 40%;
+	left: 45%;
 }
